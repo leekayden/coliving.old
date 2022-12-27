@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules type="native">
+    <module>
+        <name><![CDATA[marketplace]]></name>
+        <displayName><![CDATA[Qloapps Marketplace]]></displayName>
+        <categoryName><![CDATA[Marketplace]]></categoryName>
+        <description><![CDATA[Now convert your hotel booking website into a marketplace.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <url><![CDATA[https://store.webkul.com/Qloapps-Marketplace.html]]></url>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/marketplace_logo.jpg]]></img>
+        <description_full><![CDATA[With the QloApps marketplace you will be able to convert your website into a marketplace of hotels and rooms. Admin can grant access to Sellers/Hoteliers to add and sell hotel rooms and earn commission for bookings made by customers through the website.]]></description_full>
+        <tab><![CDATA[market_place]]></tab>
+        <version><![CDATA[1.2.3]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.0]]></from><to><![CDATA[1.6.1.24]]></to>
+        </compatibility>
+        <price>
+            <USD><![CDATA[199.00]]></USD>
+        </price>
+        <cover>
+            <small><![CDATA[http://api.qloapps.com/modules/module_img/marketplace_logo.jpg]]></small>
+            <big><![CDATA[https://store.webkul.com/media/catalog/product/cache/1/image/260x260/9df78eab33525d08d6e5fb8d27136e95/m/a/marketplace-qloapps.png]]></big>
+        </cover>
+    </module>
+    <module>
+        <name><![CDATA[wkmyallocatorconnector]]></name>
+        <displayName><![CDATA[MyAllocator Connector]]></displayName>
+        <categoryName><![CDATA[Marketplace]]></categoryName>
+        <description><![CDATA[Now integrate myallocator channel manager with qloapps.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <url><![CDATA[https://store.webkul.com/Qloapps-Myallocator-Connector.html]]></url>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkmyallocatorconnector_logo.jpg]]></img>
+        <description_full><![CDATA[We bring to you the QloApps Myallocator Connector which seamlessly connects QloApps with Myallocator channel manager. Now Hoteliers can easily synchronize room inventory and rates of room types for various hotel properties.]]></description_full>
+        <tab><![CDATA[market_place]]></tab>
+        <version><![CDATA[1.2.1]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.0]]></from><to><![CDATA[1.6.1.24]]></to>
+        </compatibility>
+        <price>
+            <USD><![CDATA[99.00]]></USD>
+        </price>
+        <cover>
+            <small><![CDATA[http://api.qloapps.com/modules/module_img/wkmyallocatorconnector_logo.jpg]]></small>
+            <big><![CDATA[https://store.webkul.com/media/catalog/product/cache/1/image/260x260/9df78eab33525d08d6e5fb8d27136e95/m/y/myallocator.png]]></big>
+        </cover>
+    </module>
+    <module>
+        <name><![CDATA[wkccavenuepayment]]></name>
+        <displayName><![CDATA[QloApps CCAvenue Payment Gateway]]></displayName>
+        <categoryName><![CDATA[Payment method]]></categoryName>
+        <description><![CDATA[Using this module you can integrate and allow payment through CCAvenue payment gateway.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <url><![CDATA[https://store.webkul.com/CCAvenue-Payment-Gateway-for-Qloapps.html]]></url>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkccavenuepayment_logo.jpg]]></img>
+        <description_full><![CDATA[With CCAvenue Payment Gateway module, admin can let customer pay through the CCAvenue payment gateway. Customers can quickly pay with several payment methods such as Credit Card, Debit Card, Net Banking, IMPS transfer etc.]]></description_full>
+        <tab><![CDATA[payments_gateways]]></tab>
+        <version><![CDATA[1.0.2]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.0]]></from><to><![CDATA[1.6.1.24]]></to>
+        </compatibility>
+        <price>
+            <USD><![CDATA[49.00]]></USD>
+        </price>
+        <cover>
+            <small><![CDATA[http://api.qloapps.com/modules/module_img/wkccavenuepayment_logo.jpg]]></small>
+            <big><![CDATA[https://store.webkul.com/media/catalog/product/cache/1/image/260x260/9df78eab33525d08d6e5fb8d27136e95/c/c/ccavenue-payment-gateway_3.png]]></big>
+        </cover>
+    </module>
+    <module>
+        <name><![CDATA[qlostripepayment]]></name>
+        <displayName><![CDATA[Stripe Payment Gateway]]></displayName>
+        <categoryName><![CDATA[payments_gateways]]></categoryName>
+        <description><![CDATA[Accept payments using Stripe payment gateway. Manage stripe transactions refunds.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <url><![CDATA[https://store.webkul.com/QloApps-Stripe-Payment.html]]></url>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/qlostripepayment_logo.jpg]]></img>
+        <description_full><![CDATA[QloApps Stripe Payment Gateway is an addon for QloApps which will allow you to accept online payments through Stripe Payment Gateway. Stripe payment gateway module allows you to accept credit cards directly on your site through your Stripe.com account.]]></description_full>
+        <tab><![CDATA[payments_gateways]]></tab>
+        <version><![CDATA[1.0.1]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.0]]></from><to><![CDATA[1.6.1.24]]></to>
+        </compatibility>
+        <price>
+            <USD><![CDATA[75.00]]></USD>
+        </price>
+        <cover>
+            <small><![CDATA[http://api.qloapps.com/modules/module_img/qlostripepayment_logo.jpg]]></small>
+            <big><![CDATA[https://store.webkul.com/media/catalog/product/cache/1/image/260x260/9df78eab33525d08d6e5fb8d27136e95/q/l/qloapps-stripe-payment-gateway.png]]></big>
+        </cover>
+    </module>
+    <module>
+        <name><![CDATA[qlomangopaypayment]]></name>
+        <displayName><![CDATA[QloApps Mangopay Payment]]></displayName>
+        <categoryName><![CDATA[payments_gateways]]></categoryName>
+        <description><![CDATA[Allows customers to use Mangopay for payments.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <url><![CDATA[https://store.webkul.com/QloApps-Mangopay-Payment.html]]></url>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/qlomangopaypayment_logo.jpg]]></img>
+        <description_full><![CDATA[QloApps Mangopay Payment gateway is an add-on that enables clients to pay for hotel bookings through the Mangopay payment gateway on your website.]]></description_full>
+        <tab><![CDATA[payments_gateways]]></tab>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.0]]></from><to><![CDATA[1.6.1.24]]></to>
+        </compatibility>
+        <price>
+            <USD><![CDATA[79.00]]></USD>
+        </price>
+        <cover>
+            <small><![CDATA[http://api.qloapps.com/modules/module_img/qlomangopaypayment_logo.jpg]]></small>
+            <big><![CDATA[https://store.webkul.com/media/catalog/product/cache/1/image/260x260/9df78eab33525d08d6e5fb8d27136e95/q/l/qloapps-mangopay-payment.png]]></big>
+        </cover>
+    </module>
+    <module>
+        <name><![CDATA[qlorazorpaypayment]]></name>
+        <displayName><![CDATA[QloApps Razorpay Payment]]></displayName>
+        <categoryName><![CDATA[payments_gateways]]></categoryName>
+        <description><![CDATA[Using this module, accept payments with Razorpay payment gateway from your customers with Card/Netbanking/Wallet.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <url><![CDATA[https://store.webkul.com/QloApps-Razorpay-Payment.html]]></url>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/qlorazorpaypayment_logo.jpg]]></img>
+        <description_full><![CDATA[QloApps Razorpay Payment Gateway is an add-on which allows you to accept online payments through Razorpay Payment Gateway. It accepts all major debit and credit cards, UPI, net banking banks and few wallets. Further, you can set up Webhook from your Dashboard so that when a refund event is triggered you get notification about its status update. Thus, you can fast forward your business and increase conversions.]]></description_full>
+        <tab><![CDATA[payments_gateways]]></tab>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.0]]></from><to><![CDATA[1.6.1.24]]></to>
+        </compatibility>
+        <price>
+            <USD><![CDATA[49.00]]></USD>
+        </price>
+        <cover>
+            <small><![CDATA[http://api.qloapps.com/modules/module_img/qlorazorpaypayment_logo.jpg]]></small>
+            <big><![CDATA[https://store.webkul.com/media/catalog/product/cache/1/image/260x260/9df78eab33525d08d6e5fb8d27136e95/q/l/qlo-razorpay-payment.png]]></big>
+        </cover>
+    </module>
+    <module>
+        <name><![CDATA[wktourpackages]]></name>
+        <displayName><![CDATA[QloApps Tour And Packages]]></displayName>
+        <categoryName><![CDATA[front_office_features]]></categoryName>
+        <description><![CDATA[Using this module, Manage tours and packages. You can create holiday packages including stay or without stay.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <url><![CDATA[https://store.webkul.com/QloApps-Tours-and-Packages.html]]></url>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wktourpackages_logo.jpg]]></img>
+        <description_full><![CDATA[QloApps Tours and Packages is an add-on that will allow the admin to sell tour packages from his hotel website. Admin will be able to create packages, add activities, events and transportation then sell the whole package to the end user. This QloApps addon will create new opportunities for the hotelier to increase the revenue by selling tours along with hotels.]]></description_full>
+        <tab><![CDATA[front_office_features]]></tab>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <from><![CDATA[1.6.0.0]]></from><to><![CDATA[1.6.1.24]]></to>
+        </compatibility>
+        <price>
+            <USD><![CDATA[99.00]]></USD>
+        </price>
+        <cover>
+            <small><![CDATA[http://api.qloapps.com/modules/module_img/wktourpackages_logo.jpg]]></small>
+            <big><![CDATA[https://store.webkul.com/media/catalog/product/cache/1/image/260x260/9df78eab33525d08d6e5fb8d27136e95/q/l/qlo-tours-nd-packages.png]]></big>
+        </cover>
+    </module>
+    <theme>
+        <name><![CDATA[single-page-theme]]></name>
+        <displayName><![CDATA[Qloapps Single Page Theme]]></displayName>
+        <author><![CDATA[Webkul]]></author>
+        <version><![CDATA[1.0]]></version>
+        <description><![CDATA[QloApps Single page theme is used for the single hotel owner. It is a lightweight design theme built with the trendy design and easy to use interface.]]></description>
+        <description_full><![CDATA[QloApps Single page theme is used for the single hotel owner. It is a lightweight design theme built with the trendy design and easy to use interface.]]></description_full>
+        <url><![CDATA[https://store.webkul.com/qloapps-single-page-theme.html]]></url>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/preview-singlepage.jpg]]></img>
+        <compatibility>
+            <from><![CDATA[1.6.0.0]]></from><to><![CDATA[1.6.1.24]]></to>
+        </compatibility>
+         <price>
+            <USD><![CDATA[49.00]]></USD>
+        </price>
+        <cover>
+            <small><![CDATA[http://api.qloapps.com/modules/module_img/preview-singlepage.jpg]]></small>
+            <big><![CDATA[https://store.webkul.com/media/catalog/product/cache/1/image/260x260/9df78eab33525d08d6e5fb8d27136e95/q/l/qloapps-single-page-theme-thumbnail.png]]></big>
+        </cover>
+    </theme>
+    <theme>
+        <name><![CDATA[qloapps-reimagined]]></name>
+        <displayName><![CDATA[QloApps Reimagined Theme]]></displayName>
+        <author><![CDATA[Webkul]]></author>
+        <version><![CDATA[1.0]]></version>
+        <description><![CDATA[QloApps Reimagined Theme is a revolutionary theme for the hoteliers that will help to turn their existing website design into an Intuitive website with trendy UI design elements.]]></description>
+        <description_full><![CDATA[QloApps Reimagined Theme is a revolutionary theme for the hoteliers that will help to turn their existing website design into an Intuitive website with trendy UI design elements.]]></description_full>
+        <url><![CDATA[https://store.webkul.com/qloapps-reimagined-theme.html]]></url>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/preview-reimagined.jpg]]></img>
+        <compatibility>
+            <from><![CDATA[1.6.0.0]]></from><to><![CDATA[1.6.1.24]]></to>
+        </compatibility>
+         <price>
+            <USD><![CDATA[99.00]]></USD>
+        </price>
+        <cover>
+            <small><![CDATA[http://api.qloapps.com/modules/module_img/preview-reimagined.jpg]]></small>
+            <big><![CDATA[https://store.webkul.com/media/catalog/product/cache/1/image/260x260/9df78eab33525d08d6e5fb8d27136e95/q/l/qloapps-reimagined-theme.png]]></big>
+        </cover>
+    </theme>
+</modules>

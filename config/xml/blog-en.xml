@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>1, 2, 3: Getting Started with TikTok on PrestaShop</title>
+    <link>https://www.prestashop.com/en/blog/tiktok-tips-prestashop</link>
+    <description>Have you heard about the popularity of TikTok and its impact on business across industries? As of April 2022, the #TikTokMadeBuyIt has over 10B views globally.</description>
+     <pubDate>Thu, 22 Dec 2022 12:41:30 +0100</pubDate>
+ <dc:creator>Mia Mian</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/tiktok-tips-prestashop</guid>
+  </item>
+  <item>
+    <title>PIM and PrestaShop: How to Increase Your eCommerce Sales?</title>
+    <link>https://www.prestashop.com/en/blog/pim-system-prestashop</link>
+    <description>The web has become a primary part of the customer journey, whatever device they are using, be it a laptop, smartphone, tab, or PC.</description>
+     <pubDate>Thu, 01 Dec 2022 10:22:43 +0100</pubDate>
+ <dc:creator>John Ahya</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/pim-system-prestashop</guid>
+  </item>
+  <item>
+    <title>Avoid abandoned shopping carts with varied online payment options</title>
+    <link>https://www.prestashop.com/en/blog/avoid-abandoned-shopping</link>
+    <description>Why are abandoned carts so common?</description>
+     <pubDate>Tue, 22 Nov 2022 11:59:38 +0100</pubDate>
+ <dc:creator>Valerie Standret</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/avoid-abandoned-shopping</guid>
+  </item>
+  <item>
+    <title>Digitalization shaping the future of payments</title>
+    <link>https://www.prestashop.com/en/blog/digitalization-payments-paybyrd</link>
+    <description>The beginning of a new year is followed by many entities announcing the increase in the prices of their goods and services. </description>
+     <pubDate>Wed, 02 Nov 2022 16:19:40 +0100</pubDate>
+ <dc:creator>Cindy Barardo</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/digitalization-payments-paybyrd</guid>
+  </item>
+  <item>
+    <title>Speed of Lite: How LiteSpeed Web Servers Power Enterprise </title>
+    <link>https://www.prestashop.com/en/blog/hostinger-lite-prestashop</link>
+    <description>Software performance is always important. It’s even more important, however, when it directly impacts your customers.</description>
+     <pubDate>Wed, 02 Nov 2022 15:36:14 +0100</pubDate>
+ <dc:creator>Merkys Maliukevičius</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/hostinger-lite-prestashop</guid>
+  </item>
+  <item>
+    <title>How to Secure a Prestashop Store from Hackers in 2022?</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-store-secure</link>
+    <description>For the past few years, the online retailing industry has acquired immense popularity all over the globe.</description>
+     <pubDate>Wed, 02 Nov 2022 11:03:44 +0100</pubDate>
+ <dc:creator>John Ahya</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-store-secure</guid>
+  </item>
+  <item>
+    <title>What are the benefits of cryptocurrencies in ecommerce?</title>
+    <link>https://www.prestashop.com/en/en/cryptopayments-coingate</link>
+    <description>There are thousands of cryptocurrencies and tokens, each with its own structure, purpose and use case.</description>
+     <pubDate>Mon, 24 Oct 2022 17:42:45 +0200</pubDate>
+ <dc:creator>Vilius Barbaravičius</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/en/cryptopayments-coingate</guid>
+  </item>
+  <item>
+    <title>Installment payments: what merchants think about this must-have for online stores</title>
+    <link>https://www.prestashop.com/en/blog/bnpl-merchants-feedback</link>
+    <description>The world of ecommerce has been talking about it for a while; Buy Now Pay Later is now a must for online stores. This payment method has been democratized and is not limited to specific sectors.</description>
+     <pubDate>Fri, 14 Oct 2022 18:21:17 +0200</pubDate>
+ <dc:creator>PrestaShop Team</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/bnpl-merchants-feedback</guid>
+  </item>
+  <item>
+    <title>FAQ Pages for SEO: A Win-Win SEO Strategy For the User and Google</title>
+    <link>https://www.prestashop.com/en/blog/faq-google-ecommerce</link>
+    <description></description>
+     <pubDate>Tue, 11 Oct 2022 11:24:56 +0200</pubDate>
+ <dc:creator>Mads Nielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/faq-google-ecommerce</guid>
+  </item>
+  <item>
+    <title>How do I accept crypto payments on my website?</title>
+    <link>https://www.prestashop.com/en/blog/crypto-accept-ecommerce</link>
+    <description>Accepting crypto payments on your website opens the door for new opportunities as your business grows. </description>
+     <pubDate>Fri, 07 Oct 2022 17:44:53 +0200</pubDate>
+ <dc:creator>Nahla Davies</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/crypto-accept-ecommerce</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+------------------------------
+# V1.0.3 to V1.0.4
+------------------------------
+
+## Improved/Changed Features:
+
+[*] FO : [#290] Using $this->_path for including css and js
+
+
+-----------------------------
+# V1.0.2 to V1.0.3
+-----------------------------
+
+## Improved/changed features:
+
+[*] BO : [#206] Removed filter settings from Other Modules setting from admin Hotel Reservation System -> Settings and added in module configuration.
+
+[*] FO : [#208] Room type listing on search result page moved to different template "room_type_listing.tpl" updated filter result.
+
+-----------------------------
+# V1.0.1 to V1.0.2
+-----------------------------
+
+## Improved/changed features
+
+[*] FO : Min and Max filter prices are shown in the price filter bar.
+[*] FO : Display issues on category page while filtering improved.
+
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+-----------------------------
+# V1.0.0 to V1.0.1
+-----------------------------
+
+## Added features
+
++ [CO] : index.php added/Updated in all folders
++ [CO] : License.txt added.
++ [CO] : License added in every file.
++ [CO] : logo.gif file added.
+
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module

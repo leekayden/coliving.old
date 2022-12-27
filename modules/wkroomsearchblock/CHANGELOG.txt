@@ -1,0 +1,92 @@
+------------------------------
+# V1.1.1 to V1.1.2
+------------------------------
+
+## Improved/Changed Features:
+
+[*] FO : [#290] Using $this->_path for including css and js
+[*] CO : [#244] Changed Tools::jsonEncode to json_encode
+
+## Bug/Issues Resolved:
+
+[-] FO : Resolved: On translating page checking and checkout dates are changed to NaN-NaN-NaN #302
+
+-----------------------------
+# V1.1.0 to V1.1.1
+-----------------------------
+
+## Improved/changed features:
+
+[*] FO : [#222] Disabled mobile keyboard pop up when using date-picker in home search
+
+## Bug/Issues Resolved:
+
+[-] FO : Fixed : [#151] Room search check-in && check-out don't change when friendly URL is disabled.
+[-] FO : Fixed : [#158] Hotel selection in search panel for mobile devices
+
+-----------------------------
+# V1.0.3 to V1.1.0
+-----------------------------
+
+## Added features
+
+[+] FO : All search panels in the QloApps are integrated in this module now. Search panels will be shown by different hooks.
+[+] [CO] : License.txt added.
+[+] [CO] : Readme.md added.
+
+## Improved/changed features
+
+[*] FO : Design of all search panels are changed.
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+-----------------------------
+# V1.0.2 to V1.0.3
+-----------------------------
+
+## Improved/changed features
+
+[*] FO : Translations are corrected.
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+
+-----------------------------
+# V1.0.1 to V1.0.2
+-----------------------------
+
+## Improved/changed features
+
+[*] FO : Js Validations on Search at landing page improved.
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+---------------------------
+# V1.0.0 to V1.0.1
+---------------------------
+
+## Added features
+
++ [CO] : index.php added/Updated in all folders
++ [CO] : License.txt added.
++ [CO] : License added in every file.
++ [CO] : logo.gif file added.
+
+
+## Improved/changed features:
+
+[+] FO : Changes are done for selleting "show/hide only one active hotel" , added in location search panel in Hotel General Settings.
+
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module

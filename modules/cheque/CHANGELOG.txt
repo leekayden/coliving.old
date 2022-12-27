@@ -1,0 +1,53 @@
+------------------------------
+# V2.6.4 to V2.6.5
+------------------------------
+
+## Improved/Changed Features:
+
+* [CO] : [#280] Fixed wrong amount in the payment gateway PaymentReturn Hook.
+* [FO] : [#301] Unused classes removed
+
+
+------------------------------
+# V2.6.3 to V2.6.4
+------------------------------
+
+## Improved/Changed Features:
+
+* [CO] : Change the method to calculate the advance payment amount for the order.
+* [CO] : Changed confirm order validation
+* [CO] : Removed unnecessary files.
+
+
+------------------------------
+# V2.6.2 to V2.6.3
+------------------------------
+
+## Improved/Changed Features:
+
+* [CO] : Correct cart total is sent to validateOrder() in case of advance payment.
+
+
+------------------------------
+# V2.6.1 to V2.6.2
+------------------------------
+
+## Improved/Changed Features:
+
+* [FO] : Display issues resolved.
+
+
+------------------------------
+# V2.6.0 to V2.6.1
+------------------------------
+
+## Improved/Changed Features:
+
+* [CO] : Compatible with php 7.x.x
+
+_____________________________________________________________________________
+
+2014-04-22 18:58:10 +0200	// Changelog updated
+2014-04-17 11:25:59 +0200	Bug fix (PS 1.5): ps_version_compliancy removed
+2014-03-24 15:20:50 +0100	/ MO cheque : ps_versions_compliancy added
+2014-03-20 14:30:59 +0100	Initial commit

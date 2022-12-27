@@ -1,0 +1,106 @@
+# V1.1.4 to V1.1.5
+------------------------------
+
+## Improved/Changed Features:
+
+[*] FO : Using $this->_path for including css and js
+
+
+-----------------------------
+# V1.1.3 to V1.1.4
+-----------------------------
+
+## Improved/changed features
+
+[*] CO : License year is changed up to 2020.
+[*] CO : Images link are now generated dynamically
+
+## Bug/Issues Resolved:
+
+[-] FO : FIXED : If all rows are disabled then also Testimonial block is visible on home page.
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+# V1.1.2 to V1.1.3
+-----------------------------
+
+## Improved/changed features
+
+[*] CO : hookDisplayDefaultNavigationHook hook removed as module's navigation link at front menu will be managed by blocknavigatiomenu module now.
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+-----------------------------
+# V1.1.1 to V1.1.2
+-----------------------------
+
+## Improved/changed features
+
+[*] BO : Images validation improved client side (for post_max_size issue).
+[*] BO : Render list filter issues resolved.
+[*] BO : validation improved.
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+-----------------------------
+# V1.1.0 to V1.1.1
+-----------------------------
+
+## Added features
+
+[+] BO : Configuration option "Show link at navigation" given to choose whether show testimonial link at navigation menu or not.
+
+
+## Improved/changed features
+
+[+] BO : Images validation improved.
+[+] BO : Render option moved above render list at AdminTestimonialsModuleSetting controller.
+[-] FO : "Testimonial" link is removed from footer explore block.
+
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+
+-----------------------------
+# V1.0.0 to V1.1.0
+-----------------------------
+
+## Added features
+
++ [CO] : Module is now made multilang.
++ [CO] : htl_testimonials_block_data_lang table added to make module multilang.
++ [CO] : index.php added/Updated in all folders
++ [CO] : License.txt added.
++ [CO] : License added in every file.
++ [CO] : logo.gif file added.
+
+
+## Bug/Issues Resolved:
+
+[+] BO : Resolved :: Image name issue issue while saving new testimonial
+[+] BO : Resolved :: Tools::displayError() replaced with $this->l() in admin AdminTestimonialsModuleSettingController
+
+
+## Improved/changed features
+
+- [BO] : getTestimonialData() improved in WkHotelTestimonialData.php
+
+- [CO] : `id` changed to `id_testimonial_block` in htl_testimonials_block_data for position working.
+- [CO] : image column remove from htl_testimonials_block_data table
+
+
+## Update Policy
+
+- Database changed, Module need upload new file then UNINSTALL and re-installation.

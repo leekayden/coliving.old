@@ -1,0 +1,53 @@
+/**
+* 2010-2020 Webkul.
+*
+* NOTICE OF LICENSE
+*
+* All right is reserved,
+* Please go through this link for complete license : https://store.webkul.com/license.html
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade this module to newer
+* versions in the future. If you wish to customize this module for your
+* needs please refer to https://store.webkul.com/customisation-guidelines/ for more information.
+*
+*  @author    Webkul IN <support@webkul.com>
+*  @copyright 2010-2020 Webkul IN
+*  @license   https://store.webkul.com/license.html
+*/
+
+.prod_suggest_ul {
+	background-color: white;
+    border: 1px solid #c2c2c2;
+    left: 0;
+    padding: 5px 0;
+    position: absolute;
+    right: 0;
+    top: 31px;
+    z-index: 1000;
+    display: none;
+    max-height: 142px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.suggestion_a {
+	display: block;
+	color: #666 !important;
+	background-color: #fff;
+    padding: 5px;
+    outline: none;
+    text-decoration: none !important;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+.suggestion_a:hover {
+	color: #fff !important;
+	background-color: #337AB7;
+}
+.htlRoomImg {
+    height: 60px !important;
+}
+#productName {
+    text-transform: capitalize;
+}

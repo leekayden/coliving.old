@@ -1,0 +1,47 @@
+------------------------------
+# V1.1.3 to V1.1.4
+------------------------------
+
+## Improved/Changed Features:
+
+* [CO] : [#280] Fixed wrong amount in the payment gateway PaymentReturn Hook.
+* [FO] : [#301] Unused classes removed
+
+
+------------------------------
+# V1.1.2 to V1.1.3
+------------------------------
+
+## Improved/Changed Features:
+
+* [CO] : Change the method to calculate the advance payment amount for the order.
+* [CO] : Changed confirm order validation
+* [CO] : Removed unnecessary files.
+
+
+------------------------------
+# V1.1.1 to V1.1.2
+------------------------------
+
+## Improved/Changed Features:
+
+* [FO] : Translations improved.
+* [CO] : Correct cart total is sent to validateOrder() in case of advance payment.
+
+
+
+------------------------------
+# V1.1.0 to V1.1.1
+------------------------------
+
+## Improved/Changed Features:
+
+* [CO] : Compatible with php 7.x.x
+
+
+_____________________________________________________________________________
+
+2014-04-22 18:56:46 +0200	// Changelog updated
+2014-04-17 11:59:23 +0200	// version compliancy
+2014-03-24 15:16:08 +0100	/ MO bankwire : ps_versions_compliancy added
+2014-03-20 14:19:09 +0100	Initial commit

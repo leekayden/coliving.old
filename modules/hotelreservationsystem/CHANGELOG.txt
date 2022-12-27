@@ -1,0 +1,277 @@
+-------------------------
+# V1.4.2 to V1.4.3
+-------------------------
+
+## Improved/changed features:
+
+[*] BO : [#253] Using room status as constants instead in values, removed HotelOrderStatus class
+[*] BO : [#270] Using room availability status as constants instead in values, removed HotelRoomStatus class
+[*] CO : [#244] Changed Tools::jsonEncode to json_encode
+[*] CO : [#283] Invalid value inserted in 'special_days' field in htl_room_type_feature_pricing table through API
+[*] CO : [#284] Resolved: No validation for the fields in 'hotel_refund_rules' API for add and update. 
+[*] CO : [#289] Validations added to the fields of "bookings" API for POST / PUT API requests
+[*] CO : [#274, #274] Text changes
+[*] CO : [#290] Using $this->_path for including css and js | Moved plugins to core js folder 
+
+
+## Bug/Issues Resolved:
+
+[-] BO : [#259] fixed room reallocation availability list for temporary unavailable rooms 
+[-] BO : [#256] Fixed Swap rooms leads to reservations duplications 
+[-] CO : [#252] Fixed getRoomBookingData function always return the first room for same room in order with different dates
+[-] CO : [#291] Resolved: Wrong price return by advance payment functions in HotelAdvancedPayment class
+[-] CO : [#294] Resolve order edit issues, Added hooks in order edit process
+[-] CO : [#303] In ' Manage Hotel' Controller, validation added for 'check-out time must be before check in'
+
+
+
+
+
+-------------------------
+# V1.4.1 to V1.4.2
+-------------------------
+
+## Added Features:
+
+[+] CO : [#198] Multiple hooks are added in the different QloApps core files
+
+## Improved/changed features:
+
+[*] BO : [110, #111] Code Optimization
+[*] BO : [#179] Added hotel column in room type feature pricing list
+[*] BO : [#204, #196, #182] Text Changes
+[*] BO : [#193] Removed Payment Modules setting from admin Hotel Reservation System -> Settings
+[*] BO : [#206] Removed Other Modules setting from admin Hotel Reservation System -> Settings
+
+[*] CO : [#215] "hotelreservationsystem.php" code optimization in hook "actionValidateOrder"
+[*] CO : [#221] dataforfrontsearch() function now calculate and provide "feature_price_diff" value in response
+[*] CO : [#223] getHotelCartBookingData() : function multiplication optimized
+[*] CO : [#225] HotelRoomTypeFeaturePricing.php optimized (Removed unused variables, removed static values assigned)
+
+## Bug/Issues Resolved:
+
+[-] FO : Fixed : [#169] Wrong price displayed when booking from 1 march to 30 march
+[*] FO : [#215] "ajax-cart.js" add validation
+
+[-] BO : Fixed : [#162] Additional facility price changes for room type after saving
+[-] BO : Fixed : [#168] Room number not updating after room reallocation and swap
+[-] BO : Fixed : [#173] Undefined varaible issue Manage Order Refund Request Controller
+[-] BO : Fixed : [#211] Errors on cart rule page when add room type, which is not assigned to hotel, selected in room type condition
+[-] BO : Fixed : [#229] Resolved undefined variable error in Manage Order Refund Request Controller
+
+
+
+-------------------------
+# V1.4.0 to V1.4.1
+-------------------------
+
+## Added Features:
+
+[+] CO : Columns `active_refund` are added in 'htl_branch_info' table.
+[+] CO : Columns `total_paid_amount`, `available_for_order`, `hotel_name`, `room_type_name`, `city`, `state`, `country`, `zipcode`, `phone`, `email`, `check_in_time`, `check_out_time`, `room_num`, `adult`, `children` in 'htl_booking_detail' table.
+[+] CO : tables 'htl_room_type_feature_pricing_group', 'htl_branch_refund_rules', 'htl_order_refund_rules' added.
+[+] CO : Class 'HotelBranchRefundRules' is added.
+[+] CO : datatable library is addded to the module.
+[+] CO : wk_refund_request.js, wk_refund_rule.js addded to the module.
+
+[+] BO : Occupancy setting added in the Hotel General Setting Tab.
+[+] BO : Feature Price Rule: Groups wise Condition in feature price rules is added.
+[+] BO : Admin can enable/disable refund for the hotel.
+[+] BO : Refund rules can be selected hotel wise.
+
+## Improved/changed features:
+
+[*] CO : All files license year is updated to 2020.
+[*] CO : tables 'htl_customer_adv_payment', 'htl_customer_adv_product_payment', 'htl_order_refund_info', 'htl_order_refund_stages' are removed.
+[*] CO : Classes 'HotelCustomerAdvancedPayment', 'HotelCustomerAdvancedProductPayment', 'HotelOrderRefundInfo', 'HotelOrderRefundStages' are removed.
+[*] CO : All search block css and js are moved to "wkroomsearchblock" module.
+[*] CO : Images link are now generated dynamically
+
+[*] BO : In Admin Refund Rules controller name and description fields are added.
+[*] BO : Admin Refund Request controller is improved and now will work as per new flow of refund process.
+[*] BO : Create demo zipcode if zipcode is required and pattern not provided.
+
+## Bug/Issues Resolved:
+[-] CO : Resolved:: Feature price wrong calculation in currencies other than default currency in case of impact way percentage.
+
+
+## Update Policy
+
+- Database changed, Module need upload new file then UNINSTALL and re-installation.
+
+
+-------------------------
+# V1.3.0 to V1.4.0
+-------------------------
+
+## Added Features:
+
+[+] CO : Table `htl_booking_demands_tax` added to the module for additional facility tax.
+[+] CO : Table `htl_access` added to the module to manage hotel wise permission management.
+[+] BO : Additional facility : Tax can be applied on additional facilities.
+[+] BO : Additional facility : Per day price calculation option is added.[Price will be calculated on per day basis of the booking or for entire date range of the booking]
+[+] BO : All controllers accesses are now manages according to the hotel wise permission management.
+
+[+] CO : hookActionObjectProfileAddAfter, hookActionObjectProfileDeleteBefore are added to add and delete hotel accessed while adding or deleting any profile.
+
+
+## Improved/changed features:
+
+[+] CO : Table `htl_booking_demands` altered to the manage to additional facility tax.
+[*] CO : getCartFormatedBookinInfoByIdCart(), getCartExtraDemands() functions improved for extra demands in HotelCartBookingData class.
+[*] CO : add(), initAccess(), addHotelsAccessToProfile(), deleteProfileHotelsAccess(), getProfileAccessedHotels(), filterDataByHotelAccess() added in class HotelBranchInformation for managing hotel wise permission management.
+[*] CO : delete() updated in class HotelBranchInformation to delete from htl_access for managing hotel wise permission management while deleting a hotel.
+[*] CO : updateBookingOrderStatusByOrderId() updated in class HotelBookingDetail.
+
+[*] BO : Only imported countries will be shown in the country dropdown while saving a hotel.
+
+## Bug/Issues Resolved:
+
+[-] CO : Resolved: Room type's Advance payment information is now saved while adding room types on the installation of the module. [As room type is unavailable for the advance payment]
+getProductFeaturePricePlanByDateByPriority
+[-] BO : Resolved: Hotel image file does not delete from the folder after hotel image deletion.
+
+
+## Update Policy
+
+- Database changed, Module need upload new file then UNINSTALL and re-installation.
+
+
+-------------------------
+# V1.2.2 to V1.3.0
+-------------------------
+
+## Added Features:
+
+[+] CO : Additional Facility functionality is added.
+[+] CO : `extra_demands` columnn added to the table `htl_cart_booking_data`.
+[+] CO : Tables `htl_booking_demands`, `htl_room_type_global_demand`, `htl_room_type_global_demand_lang`, `htl_room_type_global_demand_advance_option`, `htl_room_type_global_demand_advance_option_lang`, `htl_room_type_demand_price`, `htl_room_type_demand` are added to the module to manage extra demand feature.
+
+[+] BO : AdminRoomTypeGlobalDemand controller added to create and update extra demands.
+[Hotel reservation system -> Settings -> Additional Demands]
+
+[+] BO : "EXTRA DEMANDS" tab added while updating a room type.
+
+
+## Improved/changed features:
+
+[*] CO : mp-form-fields-flag.tpl name changed to htl-form-fields-flag.tpl
+[*] BO : Tiny mce fields validations improved.
+[*] BO : Feature price settings filters are improved.
+[*] BO : Order Refund rules page filters are improved.
+[*] BO : Order Refund Requests page filters are improved.
+[*] BO : Book Now page search process is improved.
+[*] BO : Google map key is now at General Settings -> GOOGLE MAP SETTING only removed from Preferences->General tab.
+
+## Bug/Issues Resolved:
+
+[-] BO : Zipcode in demo data is now dynamic for selected country while QloApps installation.
+
+
+## Update Policy
+
+- Database changed, Module need upload new file then UNINSTALL and re-installation.
+
+
+-------------------------
+# V1.2.1 to V1.2.2
+-------------------------
+
+## Improved/changed features:
+
+[+] CO : Demo data insertion improved.
+[+] CO : getHotelCartBookingData() improved as used many places in QloApps.
+
+[+] CO : Call to HotelImage::validateImage() is deprecated.
+[+] CO : Call to Hotelhelper::validImageExt() is deprecated.
+
+
+[+] BO : Unused category deletion process added on hotel deletion. function deleteUnusedHotelCategories() added.
+[+] BO : Hotel creation code improved.
+[+] BO : Images validation improved.
+[+] BO : Zipcode validation is improved as per selected country.
+
+
+## Bug/Issues Resolved:
+
+[-] CO : Zipcode in demo data is now dynamic for selected country while QloApps installation.
+
+
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+-------------------------
+# V1.2.0 to V1.2.1
+-------------------------
+
+## Added Features:
+
+[+] CO : Demo data will be now populated as per choice while Qloapps installation (populate data or not option).
+
+
+## Improved/changed features:
+
+[-] BO : Resolved :: view page of AdminHotelFeatures improved when no features exists.
+
+
+## Bug/Issues Resolved:
+
+[-] BO : Resolved :: "HTTP ERROR 500"  when clicking "Book Now" tab.
+
+
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+-------------------------
+# V1.1.1 to V1.2.0
+-------------------------
+
+## Added Features:
+
+[+] CO : index.php added/Updated in all folders
+[+] CO : License.txt added.
+[+] CO : License added in every file.
+[+] CO : logo.gif file added.
+
+[+] CO : Module is made multilang now.
+[+] CO : 'htl_room_type_feature_pricing_lang' table added to make Feature Price rules controller multilang.
+[+] CO : 'htl_features_lang' table added to make Manage Hotel Features controller multilang.
+[+] CO : 'htl_branch_info_lang' table added to make 'Manage Hotels' controller multilang.
+
+[+] CO : HotelHelper::getQloNativeModules() added for module list of Qloapps
+[+] CO : HotelHelper::updateConfigurationLangKeys(), HotelHelper::updateLangTables() added for lang tables management when importing new language from localization
+
+[+] BO : AdminAssignHotelFeatures controller added to Manage Hotel Features.
+[+] BO : On contact us page contact header, contact content, global address are now dynamic. Enter values from AdminGeneralSettingsController.
+[+] BO : Configuration to show/hide only one active hotel is added in location search panel in Hotel General Settings.
+
+## Improved/changed features:
+
+[+] CO : PREFIX_htl_image table changed for hotel cover image feature.
+[+] CO : `id` is changed to `id_feature_price` in 'htl_room_type_feature_pricing_lang' table.
+[+] CO : MultiLang fields removed from tables 'htl_room_type_feature_pricing_lang', 'htl_features_lang', 'htl_branch_info_lang' tables.
+
+[+] BO : Seperate configuration panel is made for location search panel in Hotel General Settings.
+
+
+## Bug/Issues Resolved:
+
+[-] CO : Resolved :: hotelreservationsystem:: Hotel images not saved while saving hotel details.
+
+[-] BO : Resolved :: hotelreservationsystem - $max_phone_digit is undefined issue resolved on hotel creation form.
+
+[-] CO : Resolved :: hotelreservationsystem - Parent:: replaced with parent:: in classes/hotelHotelBranchInformation.php which was creating problems in installation.
+
+[-] CO : Resolved :: hotelreservationsystem:: HotelBookingDetail.php : phone number sent as string '0987654321'from 0987654321. Giving error while installing Qloapps with php7.0.0 .
+
+[-] BO : Resolved :: If current date is the last date then data to is change to the next date while Book now from admin.
+
+## Update Policy
+
+- Database changed, Module need upload new file then UNINSTALL and re-installation.

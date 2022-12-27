@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules type="native">
+    <module>
+        <name><![CDATA[wkabouthotelblock]]></name>
+        <displayName><![CDATA[About Hotel Block]]></displayName>
+        <description><![CDATA[Now show Block about your hotel using this module.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.1.6]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkabouthotelblock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockadvertising]]></name>
+        <displayName><![CDATA[Advertising block]]></displayName>
+        <description><![CDATA[Adds an advertisement block to selected sections of your e-commerce website.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[0.10.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockadvertising_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsstock]]></name>
+        <displayName><![CDATA[Available quantities]]></displayName>
+        <description><![CDATA[Adds a tab showing the quantity of available products for sale to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.6.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsstock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[bankwire]]></name>
+        <displayName><![CDATA[Bank wire]]></displayName>
+        <description><![CDATA[Accept payments for your products via bank wire transfer.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.1.3]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/bankwire_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockbanner]]></name>
+        <displayName><![CDATA[Banner block]]></displayName>
+        <description><![CDATA[Displays a banner at the top of the shop.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockbanner_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsbestproducts]]></name>
+        <displayName><![CDATA[Best-selling room types]]></displayName>
+        <description><![CDATA[Adds a list of the best-selling room types to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.5.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsbestproducts_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsbestcustomers]]></name>
+        <displayName><![CDATA[Best customers]]></displayName>
+        <description><![CDATA[Adds a list of the best customers to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.5.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsbestcustomers_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsbestcategories]]></name>
+        <displayName><![CDATA[Best hotels]]></displayName>
+        <description><![CDATA[Adds a list of the best hotels to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.5.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsbestcategories_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsbestvouchers]]></name>
+        <displayName><![CDATA[Best vouchers]]></displayName>
+        <description><![CDATA[Adds a list of the best vouchers to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.5.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsbestvouchers_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsequipment]]></name>
+        <displayName><![CDATA[Browsers and operating systems]]></displayName>
+        <description><![CDATA[Adds a tab containing graphs about web browser and operating system usage to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsequipment_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockcart]]></name>
+        <displayName><![CDATA[Cart block]]></displayName>
+        <description><![CDATA[Adds a block containing the customer's shopping cart.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.6.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockcart_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statscheckup]]></name>
+        <displayName><![CDATA[Catalog evaluation]]></displayName>
+        <description><![CDATA[Adds a quick evaluation of your catalog quality to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.5.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statscheckup_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statscatalog]]></name>
+        <displayName><![CDATA[Catalog statistics]]></displayName>
+        <description><![CDATA[Adds a tab containing general statistics about your catalog to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statscatalog_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockcategories]]></name>
+        <displayName><![CDATA[Categories block]]></displayName>
+        <description><![CDATA[Adds a block featuring product categories.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[2.9.4]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockcategories_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockcms]]></name>
+        <displayName><![CDATA[CMS block]]></displayName>
+        <description><![CDATA[Adds a block with several CMS links.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[2.1.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockcms_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockcontact]]></name>
+        <displayName><![CDATA[Contact block]]></displayName>
+        <description><![CDATA[Allows you to add additional information about your store's customer service.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockcontact_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockcontactinfos]]></name>
+        <displayName><![CDATA[Contact information block]]></displayName>
+        <description><![CDATA[This module will allow you to display your e-store's contact information in a customizable block.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.2.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockcontactinfos_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[crossselling]]></name>
+        <displayName><![CDATA[Cross-selling]]></displayName>
+        <description><![CDATA[Adds a "Customers who bought this product also bought..." section to every product page.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.1.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/crossselling_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockcurrencies]]></name>
+        <displayName><![CDATA[Currency block]]></displayName>
+        <description><![CDATA[Adds a block allowing customers to choose their preferred shopping currency.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[0.4.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockcurrencies_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockcmsinfo]]></name>
+        <displayName><![CDATA[Custom CMS information block]]></displayName>
+        <description><![CDATA[Adds custom information blocks in your store.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.6.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockcmsinfo_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsregistrations]]></name>
+        <displayName><![CDATA[Customer accounts]]></displayName>
+        <description><![CDATA[Adds a registration progress tab to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsregistrations_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockcustomerprivacy]]></name>
+        <displayName><![CDATA[Customer data privacy block]]></displayName>
+        <description><![CDATA[Adds a block displaying a message about a customer's privacy data.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[2.0.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockcustomerprivacy_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockreinsurance]]></name>
+        <displayName><![CDATA[Customer reassurance block]]></displayName>
+        <description><![CDATA[Adds an information block aimed at offering helpful information to reassure customers that your store is trustworthy.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[2.2.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockreinsurance_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[dashactivity]]></name>
+        <displayName><![CDATA[Dashboard Activity]]></displayName>
+        <description><![CDATA[]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/dashactivity_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[dashavailability]]></name>
+        <displayName><![CDATA[Dashboard Availability]]></displayName>
+        <description><![CDATA[Adds a block with a graphical representation of availability of your hotel`s room.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/dashactivity_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[dashgoals]]></name>
+        <displayName><![CDATA[Dashboard Goals]]></displayName>
+        <description><![CDATA[Adds a block with your store's forecast.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/dashgoals_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[dashguestcycle]]></name>
+        <displayName><![CDATA[Dashboard Guest Cycle]]></displayName>
+        <description><![CDATA[Adds a block with a graphical representation of guest cycle stats.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/dashgoals_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[dashoccupancy]]></name>
+        <displayName><![CDATA[Dashboard Occupancy]]></displayName>
+        <description><![CDATA[Adds a block with a graphical representation of occupancy of your hotel`s room.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/dashgoals_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[dashperformance]]></name>
+        <displayName><![CDATA[Dashboard Performance]]></displayName>
+        <description><![CDATA[Adds a block with a graphical representation of performance of your website.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/dashgoals_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[dashproducts]]></name>
+        <displayName><![CDATA[Dashboard Products]]></displayName>
+        <description><![CDATA[Adds a block with a table of your latest orders and a ranking of your products]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/dashproducts_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[dashtrends]]></name>
+        <displayName><![CDATA[Dashboard Trends]]></displayName>
+        <description><![CDATA[Adds a block with a graphical representation of the development of your store(s) based on selected key data.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.0.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/dashtrends_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsdata]]></name>
+        <displayName><![CDATA[Data mining for statistics]]></displayName>
+        <description><![CDATA[This module must be enabled if you want to use statistics.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.6.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsdata_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wkfooterpaymentinfoblockcontainer]]></name>
+        <displayName><![CDATA[Display about hotel block and payment block in footer]]></displayName>
+        <description><![CDATA[Contain short information about hotel and payment gateway accepted by site.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.0.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkfooterpaymentinfoblockcontainer_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wkhotelroom]]></name>
+        <displayName><![CDATA[Display Hotel Rooms]]></displayName>
+        <description><![CDATA[Using this module you can display your hotel rooms in home page.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.1.5]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkhotelroom_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wkfooterlangcurrencyblock]]></name>
+        <displayName><![CDATA[Display Language and Currency Block]]></displayName>
+        <description><![CDATA[Contains language and currency block in footer.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.0.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkfooterlangcurrencyblock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[vatnumber]]></name>
+        <displayName><![CDATA[European VAT number]]></displayName>
+        <description><![CDATA[Enables you to enter the intra-community VAT number when creating the address. You must fill in the company field to allow entering the VAT number.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[2.0.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/vatnumber_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockfacebook]]></name>
+        <displayName><![CDATA[Facebook Like Box block]]></displayName>
+        <description><![CDATA[Displays a block for subscribing to your Facebook Page.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockfacebook_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocksharefb]]></name>
+        <displayName><![CDATA[Facebook Share Button]]></displayName>
+        <description><![CDATA[Allows customers to share products or content on Facebook.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocksharefb_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[homefeatured]]></name>
+        <displayName><![CDATA[Featured products on the homepage]]></displayName>
+        <description><![CDATA[Displays featured products in the central column of your homepage.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.8.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/homefeatured_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wkfooteraboutblock]]></name>
+        <displayName><![CDATA[Footer About Hotel Block]]></displayName>
+        <description><![CDATA[Show About Hotel block in footer.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.0.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkfooteraboutblock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wkfooterpaymentblock]]></name>
+        <displayName><![CDATA[Footer Payment Accepted Block]]></displayName>
+        <description><![CDATA[Show payment gateways icons in footer.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.1.3]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkfooterpaymentblock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wkfooternotificationblock]]></name>
+        <displayName><![CDATA[Footer Subscription and Social Block]]></displayName>
+        <description><![CDATA[Display Subscription and Social block in footer.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.0.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkfooternotificationblock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[hotelreservationsystem]]></name>
+        <displayName><![CDATA[Hotel Booking and Reservation System]]></displayName>
+        <description><![CDATA[Now you can be able to build your website for your hotels for their bookings and reservations by using this module.]]></description>
+        <author><![CDATA[Webkul]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/hotelreservationsystem_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wkhotelfeaturesblock]]></name>
+        <displayName><![CDATA[Hotel Features]]></displayName>
+        <description><![CDATA[Show Hotel Amenities on the home page using this module.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[2.0.3]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkhotelfeaturesblock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wktestimonialblock]]></name>
+        <displayName><![CDATA[Hotel Testimonial]]></displayName>
+        <description><![CDATA[Show Hotel testimonials on home page using this module.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.1.4]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wktestimonialblock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[homeslider]]></name>
+        <displayName><![CDATA[Image slider for your homepage]]></displayName>
+        <description><![CDATA[Adds an image slider to your homepage.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.6.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/homeslider_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocklanguages]]></name>
+        <displayName><![CDATA[Language selector block]]></displayName>
+        <description><![CDATA[Adds a block allowing customers to select a language for your store's content.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.5.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocklanguages_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wkhotelfilterblock]]></name>
+        <displayName><![CDATA[layered filters and sorting block]]></displayName>
+        <description><![CDATA[Hotel filter and sorting block]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.0.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkhotelfilterblock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocklayered]]></name>
+        <displayName><![CDATA[Layered navigation block]]></displayName>
+        <description><![CDATA[Displays a block with layered navigation filters.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[2.1.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocklayered_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocklink]]></name>
+        <displayName><![CDATA[Link block]]></displayName>
+        <description><![CDATA[Adds a block with additional links.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.6.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocklink_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockmanufacturer]]></name>
+        <displayName><![CDATA[Manufacturers block]]></displayName>
+        <description><![CDATA[Displays a block listing product manufacturers and/or brands.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockmanufacturer_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockmyaccount]]></name>
+        <displayName><![CDATA[My Account block]]></displayName>
+        <description><![CDATA[Displays a block with links relative to a user's account.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockmyaccount_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockmyaccountfooter]]></name>
+        <displayName><![CDATA[My account block for your website's footer]]></displayName>
+        <description><![CDATA[Displays a block with links relative to user accounts.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.6.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockmyaccountfooter_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocknavigationmenu]]></name>
+        <displayName><![CDATA[Navigation block]]></displayName>
+        <description><![CDATA[Adds a navigation block at top and footer section.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.1.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocknavigationmenu_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocknewproducts]]></name>
+        <displayName><![CDATA[New products block]]></displayName>
+        <description><![CDATA[Displays a block featuring your store's newest products.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.10.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocknewproducts_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsnewsletter]]></name>
+        <displayName><![CDATA[Newsletter]]></displayName>
+        <description><![CDATA[Adds a tab with a graph showing newsletter registrations to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsnewsletter_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocknewsletter]]></name>
+        <displayName><![CDATA[Newsletter block]]></displayName>
+        <description><![CDATA[Adds a block for newsletter subscription.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[2.2.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocknewsletter_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[graphnvd3]]></name>
+        <displayName><![CDATA[NVD3 Charts]]></displayName>
+        <description><![CDATA[]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.5.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/graphnvd3_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[pagesnotfound]]></name>
+        <displayName><![CDATA[Pages not found]]></displayName>
+        <description><![CDATA[Adds a tab to the Stats dashboard, showing the pages requested by your visitors that have not been found.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.5.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/pagesnotfound_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[cheque]]></name>
+        <displayName><![CDATA[Payment by check]]></displayName>
+        <description><![CDATA[This module allows you to accept payments by check.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[2.6.4]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/cheque_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockpaymentlogo]]></name>
+        <displayName><![CDATA[Payment logos block]]></displayName>
+        <description><![CDATA[Adds a block which displays all of your payment logos.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[0.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockpaymentlogo_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockpermanentlinks]]></name>
+        <displayName><![CDATA[Permanent links block]]></displayName>
+        <description><![CDATA[Adds a block which  displays permanent links such as sitemap, contact, etc.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[0.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockpermanentlinks_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[productcomments]]></name>
+        <displayName><![CDATA[Product Comments]]></displayName>
+        <description><![CDATA[Allows users to post reviews and rate products on specific criteria.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[3.5.3]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/productcomments_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[productpaymentlogos]]></name>
+        <displayName><![CDATA[Product payment logos block]]></displayName>
+        <description><![CDATA[Displays the logos of the available payment systems on the product page.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/productpaymentlogos_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[productscategory]]></name>
+        <displayName><![CDATA[Products in the same category]]></displayName>
+        <description><![CDATA[Adds a block on the product page that displays products from the same category.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.8.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/productscategory_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[producttooltip]]></name>
+        <displayName><![CDATA[Product tooltips]]></displayName>
+        <description><![CDATA[Shows information on a product page: how many people are viewing it, the last time it was sold and the last time it was added to a cart.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/producttooltip_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[pscleaner]]></name>
+        <displayName><![CDATA[QloApps Data Cleaner]]></displayName>
+        <description><![CDATA[Check and fix functional integrity constraints and remove default data]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.0.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/pscleaner_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[wkroomsearchblock]]></name>
+        <displayName><![CDATA[QloApps Room Search Panels]]></displayName>
+        <description><![CDATA[Room search blocks on different pages to search rooms as per user travel parameters.]]></description>
+        <author><![CDATA[webkul]]></author>
+        <version><![CDATA[1.1.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/wkroomsearchblock_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocksearch]]></name>
+        <displayName><![CDATA[Quick search block]]></displayName>
+        <description><![CDATA[Adds a quick search field to your website.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.7.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocksearch_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statspersonalinfos]]></name>
+        <displayName><![CDATA[Registered customer information]]></displayName>
+        <description><![CDATA[Adds information about your registered customers (such as gender and age) to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statspersonalinfos_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsproduct]]></name>
+        <displayName><![CDATA[Room type details]]></displayName>
+        <description><![CDATA[Adds detailed statistics for each room type to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.5.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsproduct_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockrss]]></name>
+        <displayName><![CDATA[RSS feed block]]></displayName>
+        <description><![CDATA[Adds a block displaying a RSS feed.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockrss_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statssales]]></name>
+        <displayName><![CDATA[Sales and orders]]></displayName>
+        <description><![CDATA[Adds graphics presenting the evolution of sales and orders to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statssales_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[sekeywords]]></name>
+        <displayName><![CDATA[Search engine keywords]]></displayName>
+        <description><![CDATA[Displays which keywords have led visitors to your website.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/sekeywords_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[sendtoafriend]]></name>
+        <displayName><![CDATA[Send to a Friend module]]></displayName>
+        <description><![CDATA[Allows customers to send a product link to a friend.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.9.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/sendtoafriend_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statssearch]]></name>
+        <displayName><![CDATA[Shop search]]></displayName>
+        <description><![CDATA[Adds a tab to the Stats dashboard, showing which keywords have been searched by your store's visitors.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statssearch_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[gridhtml]]></name>
+        <displayName><![CDATA[Simple HTML table display]]></displayName>
+        <description><![CDATA[Allows the statistics system to display data in a grid.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/gridhtml_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocksocial]]></name>
+        <displayName><![CDATA[Social networking block]]></displayName>
+        <description><![CDATA[Allows you to add information about your brand's social networking accounts.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.2.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocksocial_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[socialsharing]]></name>
+        <displayName><![CDATA[Social sharing]]></displayName>
+        <description><![CDATA[Displays social sharing buttons (Twitter, Facebook, Google+ and Pinterest) on every product page.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/socialsharing_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockspecials]]></name>
+        <displayName><![CDATA[Specials block]]></displayName>
+        <description><![CDATA[Adds a block displaying your current discounted products.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockspecials_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsforecast]]></name>
+        <displayName><![CDATA[Stats Dashboard]]></displayName>
+        <description><![CDATA[This is the main module for the Stats dashboard. It displays a summary of all your current statistics.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.2]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsforecast_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockstore]]></name>
+        <displayName><![CDATA[Store locator block]]></displayName>
+        <description><![CDATA[Displays an image link to PrestaShop's store locator feature.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockstore_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocksupplier]]></name>
+        <displayName><![CDATA[Suppliers block]]></displayName>
+        <description><![CDATA[Adds a block displaying your product suppliers.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.2.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocksupplier_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocktags]]></name>
+        <displayName><![CDATA[Tags block]]></displayName>
+        <description><![CDATA[Adds a block containing your product tags.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocktags_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockbestsellers]]></name>
+        <displayName><![CDATA[Top-sellers block]]></displayName>
+        <description><![CDATA[Adds a block displaying your store's top-selling products.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.7.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockbestsellers_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blocktopmenu]]></name>
+        <displayName><![CDATA[Top horizontal menu]]></displayName>
+        <description><![CDATA[Adds a new horizontal menu to the top of your e-commerce website.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[2.2.3]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blocktopmenu_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[trackingfront]]></name>
+        <displayName><![CDATA[Tracking - Front office]]></displayName>
+        <description><![CDATA[Enables your affiliates to access their own statistics. See Stats/Referrers.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.8.4]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/trackingfront_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockuserinfo]]></name>
+        <displayName><![CDATA[User info block]]></displayName>
+        <description><![CDATA[Adds a block that displays information about the customer.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[0.4.0]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockuserinfo_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockviewed]]></name>
+        <displayName><![CDATA[Viewed products block]]></displayName>
+        <description><![CDATA[Adds a block displaying recently viewed products.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockviewed_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statslive]]></name>
+        <displayName><![CDATA[Visitors online]]></displayName>
+        <description><![CDATA[Adds a list of customers and visitors who are currently online to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statslive_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsorigin]]></name>
+        <displayName><![CDATA[Visitors origin]]></displayName>
+        <description><![CDATA[Adds a graph displaying the websites your visitors came from to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.4.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsorigin_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[statsvisits]]></name>
+        <displayName><![CDATA[Visits and Visitors]]></displayName>
+        <description><![CDATA[Adds statistics about your visits and visitors to the Stats dashboard.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.6.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/statsvisits_logo.jpg]]></img>
+    </module>
+    <module>
+        <name><![CDATA[blockwishlist]]></name>
+        <displayName><![CDATA[Wishlist block]]></displayName>
+        <description><![CDATA[Adds a block containing the customer's wishlists.]]></description>
+        <author><![CDATA[PrestaShop]]></author>
+        <version><![CDATA[1.3.1]]></version>
+        <compatibility>
+            <ps>
+                <from><![CDATA[1.6.0.14]]></from>
+                <to><![CDATA[1.6.1.24]]></to>
+            </ps>
+            <qlo>
+                <from><![CDATA[1.4.0.0]]></from>
+                <to><![CDATA[1.5.2.0]]></to>
+            </qlo>
+        </compatibility>
+        <img><![CDATA[http://api.qloapps.com/modules/module_img/blockwishlist_logo.jpg]]></img>
+    </module>
+</modules>

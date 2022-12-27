@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tab_modules_list>
+<tab class_name="AdminProducts" display_type="slider_list">
+</tab>
+<tab class_name="AdminCategories" display_type="slider_list">
+</tab>
+<tab class_name="AdminTracking" display_type="slider_list">
+</tab>
+<tab class_name="AdminAttributesGroups" display_type="slider_list">
+</tab>
+<tab class_name="AdminFeatures" display_type="slider_list">
+</tab>
+<tab class_name="AdminManufacturers" display_type="slider_list">
+</tab>
+<tab class_name="AdminSuppliers" display_type="slider_list">
+</tab>
+<tab class_name="AdminTags" display_type="slider_list">
+</tab>
+<tab class_name="AdminOrders" display_type="slider_list">
+</tab>
+<tab class_name="AdminInvoices" display_type="slider_list">
+</tab>
+<tab class_name="AdminReturn" display_type="slider_list">
+</tab>
+<tab class_name="AdminDeliverySlip" display_type="slider_list">
+</tab>
+<tab class_name="AdminSlip" display_type="slider_list">
+</tab>
+<tab class_name="AdminStatuses" display_type="slider_list">
+</tab>
+<tab class_name="AdminOrderMessage" display_type="slider_list">
+</tab>
+<tab class_name="AdminCustomers" display_type="slider_list">
+</tab>
+<tab class_name="AdminAddresses" display_type="slider_list">
+</tab>
+<tab class_name="AdminGroups" display_type="slider_list">
+</tab>
+<tab class_name="AdminCarts" display_type="slider_list">
+</tab>
+<tab class_name="AdminCustomerThreads" display_type="slider_list">
+</tab>
+<tab class_name="AdminContacts" display_type="slider_list">
+</tab>
+<tab class_name="AdminCartRules" display_type="slider_list">
+</tab>
+<tab class_name="AdminSpecificPriceRule" display_type="slider_list">
+</tab>
+<tab class_name="AdminDashboard" display_type="slider_list">
+    <module name="wktourpackages" position="2"/>
+</tab>
+<tab class_name="AdminHotelConfigurationSetting" display_type="slider_list">
+    <module name="marketplace" position="1"/>
+    <module name="wkmyallocatorconnector" position="2"/>
+</tab>
+<tab class_name="AdminMarketing" display_type="default_list">
+</tab>
+<tab class_name="AdminPayment" display_type="slider_list">
+    <module name="wkccavenuepayment" position="1"/>
+    <module name="qlostripepayment" position="2"/>
+    <module name="qlomangopaypayment" position="3"/>
+    <module name="qlorazorpaypayment" position="4"/>
+</tab>
+<tab class_name="AdminCarriers" display_type="slider_list">
+</tab>
+<tab class_name="AdminShipping" display_type="slider_list">
+</tab>
+<tab class_name="AdminLocalization" display_type="slider_list">
+</tab>
+<tab class_name="AdminZones" display_type="slider_list">
+</tab>
+<tab class_name="AdminCountries" display_type="slider_list">
+</tab>
+<tab class_name="AdminCurrencies" display_type="slider_list">
+</tab>
+<tab class_name="AdminTaxes" display_type="slider_list">
+</tab>
+<tab class_name="AdminTaxRulesGroup" display_type="slider_list">
+</tab>
+<tab class_name="AdminTranslations" display_type="slider_list">
+</tab>
+<tab class_name="AdminPreferences" display_type="slider_list">
+</tab>
+<tab class_name="AdminOrderPreferences" display_type="slider_list">
+</tab>
+<tab class_name="AdminPPreferences" display_type="slider_list">
+</tab>
+<tab class_name="AdminCustomerPreferences" display_type="slider_list">
+</tab>
+<tab class_name="AdminThemes" display_type="slider_list">
+</tab>
+<tab class_name="AdminMeta" display_type="slider_list">
+</tab>
+<tab class_name="AdminCmsContent" display_type="slider_list">
+</tab>
+<tab class_name="AdminImages" display_type="slider_list">
+</tab>
+<tab class_name="AdminSearchConf" display_type="slider_list">
+</tab>
+<tab class_name="AdminGeolocation" display_type="slider_list">
+</tab>
+<tab class_name="AdminInformation" display_type="slider_list">
+</tab>
+<tab class_name="AdminPerformance" display_type="slider_list">
+</tab>
+<tab class_name="AdminEmails" display_type="slider_list">
+</tab>
+<tab class_name="AdminImport" display_type="slider_list">
+</tab>
+<tab class_name="AdminBackup" display_type="slider_list">
+</tab>
+<tab class_name="AdminRequestSql" display_type="slider_list">
+</tab>
+<tab class_name="AdminLogs" display_type="slider_list">
+</tab>
+<tab class_name="AdminAdminPreferences" display_type="slider_list">
+</tab>
+<tab class_name="AdminStats" display_type="slider_list">
+</tab>
+<tab class_name="AdminSearchEngines" display_type="slider_list">
+</tab>
+<tab class_name="AdminReferrers" display_type="slider_list">
+</tab>
+</tab_modules_list>

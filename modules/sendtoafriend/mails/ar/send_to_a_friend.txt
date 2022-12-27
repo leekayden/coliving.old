@@ -1,0 +1,11 @@
+
+[/{shop_url}]
+
+مرحبا {name}،
+
+انقر هنا لمشاهدة هذا المادة: {product}
+[/{product_link}]
+
+{shop_name} [/{shop_url}] Webkul(tm)
+[https://webkul.com]
+

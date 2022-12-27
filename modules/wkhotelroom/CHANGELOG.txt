@@ -1,0 +1,129 @@
+------------------------------
+# V1.1.7 to V1.1.7
+------------------------------
+
+## Improved/Changed Features:
+
+[*] FO : [#290] Using $this->_path for including css and js
+[*] FO : [#312] Updated view room link target attribute
+
+
+-----------------------------
+# V1.1.5 to V1.1.6
+-----------------------------
+
+## Added Features:
+
+[+] FO : [#226] display hook added after the hotel rooms block image "displayHotelRoomsBlockImageAfter"
+
+## Improved/changed features:
+
+[*] CO : [#208] Updated changes for  "Catalog Mode" option.
+
+-----------------------------
+# V1.1.4 to V1.1.5
+-----------------------------
+
+## Improved/changed features
+
+[*] CO : License year is changed up to 2020.
+
+## Bug/Issues Resolved:
+
+[-] FO : FIXED : If all rows are disabled then also Rooms block is visible on home page.
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+# V1.1.3 to V1.1.4
+-----------------------------
+
+## Improved/changed features
+
+[*] CO : hookDisplayDefaultNavigationHook hook removed as module's navigation link at front menu will be managed by blocknavigatiomenu module now.
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+-----------------------------
+# V1.1.2 to V1.1.3
+-----------------------------
+
+## Improved/changed features
+
+[*] BO : Validate::isGenericName validation added for title and description fields.
+[*] BO : Render list filter issues resolved.
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+
+-----------------------------
+# V1.1.1 to V1.1.2
+-----------------------------
+
+## Added features
+
+[+] BO : Configuration option "Show link at navigation" given to choose whether show "Our rooms" link at navigation menu or not.
+
+
+## Improved/changed features
+
+[+] BO : Render option moved above render list at AdminHotelRoomModuleSetting controller.
+[-] FO : "Our rooms" link is removed from footer explore block.
+
+
+## Bug/Issues Resolved:
+
+[-] BO : Resolved :: Amenity title does not show in Amenities List (admin).
+
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+-------------------------
+# V1.1.0 to V1.1.1
+-------------------------
+
+## Added Features:
+
+[+] CO : Demo data will be now populated as per choice while Qloapps installation (populate data or not option).
+
+
+## Update Policy
+
+- Mobule need only file update, can be updated only by UPLOADING new version on module
+
+
+-----------------------------
+# V1.0.2 to V1.1.0
+-----------------------------
+
+## Added features
+
++ [CO] : Module is now made multilang.
++ [CO] : index.php added/Updated in all folders
++ [CO] : License.txt added.
++ [CO] : License added in every file.
++ [CO] : logo.gif file added.
+
+
+## Improved/changed features
+
+- [BO] : position working improved at AdminHotelRoomModuleSetting Controller
+
+- [CO] : getHotelAmenities() improved in WkHotelRoomDisplay.php
+- [CO] : `id` is changed to `id_room_block` in htl_room_block_data table for position working.
+
+
+## Update Policy
+
+- Database changed, Module need upload new file then UNINSTALL and re-installation.

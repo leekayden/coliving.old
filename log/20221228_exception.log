@@ -1,0 +1,9 @@
+*ERROR* 	2022/12/28 - 13:06:44: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'coliving'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2022/12/28 - 13:06:47: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'coliving'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2022/12/28 - 13:06:48: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'coliving'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2022/12/28 - 13:06:48: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'coliving'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2022/12/28 - 13:06:49: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'coliving'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2022/12/28 - 13:06:49: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'coliving'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2022/12/28 - 13:07:19: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'coliving'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2022/12/28 - 13:07:21: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'coliving'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
+*ERROR* 	2022/12/28 - 13:08:32: Link to database cannot be established:SQLSTATE[HY000] [1045] Access denied for user 'coliving'@'localhost' (using password: YES) at line 102 in file classes/db/DbPDO.php
